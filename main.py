@@ -19,4 +19,4 @@ st.write(df)
 st.line_chart(df)
 
 myslider = st.slider('Celsius')
-st.write(myslide, 'in Fahrenheit is',myslider  * 9/5 +32)
+st.write(myslider, 'in Fahrenheit is',myslider  * 9/5 +32)
